@@ -52,12 +52,12 @@
     <div class="portal-calidad-container">
         <h1>Portal Calidad</h1>
         <div class="portal-calidad-buttons">
-            <a href="https://docs.google.com/forms/d/13A_UgzKs4jBhGBNAIkhVKVT6e5v9ieOycCepMufIeFg/edit#responses" class="portal-calidad-button">No conformidades</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScHp8Ssdq9pBmQPwLlHgY5hLpmDH1f8zJ9ueoxj4GeTxO19Bg/viewform" class="portal-calidad-button">No conformidades</a>
             <a href="https://intranet.probolsas.com/documentos/" class="portal-calidad-button">ISO 9001</a>
-            <a href="https://drive.google.com/drive/u/0/folders/1kuA4I24ZrbkVP0XXpJMqyOrJ8WmBVN_N" class="portal-calidad-button">Fichas Técnicas</a>
+            <a href="https://intranet.probolsas.com/documentos/" class="portal-calidad-button">Fichas Técnicas</a>
             <a href="http://192.168.0.51:8080/ProduccionApp/index.jsp#" class="portal-calidad-button">Reportes</a>
-            <a href="https://docs.google.com/spreadsheets/d/1DdJPP1I2JDKfYw1J_SSHPtHxYHP5weXmKHkj_v6Vs38/edit?gid=0#gid=0" class="portal-calidad-button">Indicadores de Cumplimiento</a>
-            <a href="https://docs.google.com/spreadsheets/d/1DsHyDcgBTbWV_2SdnYXGAhuLQghG3KlnMW-xn3Wn160/edit?gid=180514907#gid=180514907" class="portal-calidad-button">Novedades</a>
+            <a href="https://intranet.probolsas.com/documentos/" class="portal-calidad-button">Indicadores de Cumplimiento</a>
+            <a href="https://intranet.probolsas.com/documentos/" class="portal-calidad-button">Novedades</a>
         </div>
         <footer class="portal-calidad-footer">
             <a href="https://empaques.probolsas.com/">PROBOLSAS</a>
